@@ -1,7 +1,7 @@
 ## 功能介绍 
 
 前后端完整代码包括大会资讯，参会流程，特邀嘉宾，会场信息，专题论坛，交流沙龙等功能，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
-![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227184844.png)
+![image](https://user-images.githubusercontent.com/100649040/156156519-521fb9f4-476a-4a37-af76-f19ab8bfb7e4.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -20,13 +20,13 @@
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
 - 俺的微信:
 
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+![image](https://user-images.githubusercontent.com/100649040/156156539-d27adb2e-92cb-47e5-ba70-e9619c55ebff.png)
 
 
 
 ## 演示
  
-![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227184844.png)
+![image](https://user-images.githubusercontent.com/100649040/156156530-a03ae0ae-f9ea-489b-b247-80daed2a7fc6.png)
 
 
 
@@ -38,21 +38,27 @@
 
 
 ## 截图
-![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E6%B2%99%E9%BE%99.png)
+![image](https://user-images.githubusercontent.com/100649040/156156556-9122d416-eb4e-4781-8753-68b0245a1415.png)
+![image](https://user-images.githubusercontent.com/100649040/156156571-1df8e03c-f6a0-4d79-b45a-35537e4ce2d2.png)
+![image](https://user-images.githubusercontent.com/100649040/156156580-78995cba-1463-44d8-a7c6-bed2df8400b6.png)
+![image](https://user-images.githubusercontent.com/100649040/156156586-e0dd18b8-e752-40e3-afee-72998f481ba7.png)
 
-![输入图片说明](demo/%E6%97%A5%E7%A8%8B.png)
-![输入图片说明](demo/%E8%B5%84%E8%AE%AF.png)
-![输入图片说明](demo/%E4%B8%93%E9%A2%98.png)
-![输入图片说明](demo/%E6%97%A5%E7%A8%8B.png)
-![输入图片说明](demo/%E8%B5%84%E8%AE%AF.png)
-![输入图片说明](demo/liucheng.png)
-![输入图片说明](demo/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![image](https://user-images.githubusercontent.com/100649040/156156591-1e0c0cad-2cdd-4171-a6a3-52a9bc9dd0e7.png)
+![image](https://user-images.githubusercontent.com/100649040/156156598-5ef45c83-c60d-4eb7-b678-bf4c6b418126.png)
+![image](https://user-images.githubusercontent.com/100649040/156156608-b73daee3-31d8-4044-a3ba-77bab8ca4677.png)
+![image](https://user-images.githubusercontent.com/100649040/156156616-0c836126-3fbf-4239-95b4-21f83bb5dbc9.png)
+
+![image](https://user-images.githubusercontent.com/100649040/156156624-f8763867-0ed4-4a76-8ef7-a6856a8263d0.png)
+
  
 ## 后台截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E6%97%B6%E9%97%B4%E8%AE%BE%E7%BD%AE.png)
- ![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%B7%BB%E5%8A%A0.png)
+![image](https://user-images.githubusercontent.com/100649040/156156640-2b4609ad-ef56-4e91-a2cd-6b72919702d7.png)
+![image](https://user-images.githubusercontent.com/100649040/156156671-2e43d651-765a-4913-8df0-a1e6df76a1f0.png)
+![image](https://user-images.githubusercontent.com/100649040/156156687-67d2cd9c-f4f9-4303-a977-8d2b0aef0373.png)
+![image](https://user-images.githubusercontent.com/100649040/156156694-3b9016e0-33a6-4d44-bbdd-2536735cadc6.png)
+![image](https://user-images.githubusercontent.com/100649040/156156711-469dbda8-704a-46d1-96f1-24b22b84d00a.png)
+![image](https://user-images.githubusercontent.com/100649040/156156715-2abb06a6-a3d1-47ee-b6a1-3b0bcf55693d.png)
+
+
+
+
